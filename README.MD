@@ -1,6 +1,6 @@
 # Jwt_with_security
 
-## 의존성
+1. 의존성
 	+ ModelMapper
 	+ JJWT :: Extensions :: Jackson
 	+ JJWT :: Impl
